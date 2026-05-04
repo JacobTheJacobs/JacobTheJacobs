@@ -10,28 +10,4 @@
 
 <br/>
 
-</div>
-
-
-## ⚡ What I Do
-
-- 🛠️ Build useful tools, apps, and experiments
-- 🤖 Explore AI, automation, and agent workflows
-- 🎮 Create interactive experiences and visual projects
-- 📚 Learn fast, ship faster, improve every day
-
----
-
-
-## 🧪 Current Experiments
-
-| Project | Description | Status |
-|---|---|---|
-| 🐾 Codex Pet System | Custom animated pets and extra poses | Building |
-| 🦖 Three.js Kaiju | Procedural monster with laser effects | Improving |
-| 🤖 AI Tools | Automation helpers and workflows | Active |
-| 🎨 Creative UI | Beautiful interactive frontends | Exploring |
-
-
-
 
