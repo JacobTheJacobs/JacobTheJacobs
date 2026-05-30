@@ -2,8 +2,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Jacobs
+<hr/>
+# 👋 Hey, I'm Jacob
+<hr/>
 
-<br/>
 
 
