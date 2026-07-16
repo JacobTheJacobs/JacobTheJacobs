@@ -18,6 +18,7 @@
 |---|---|---|
 | **Claw Mate** | Desktop **AI pet** that watches your coding agents (Claude Code, Codex, OpenClaw) and surfaces approvals the moment they're needed. | [Microsoft Store](https://apps.microsoft.com/detail/9NJH9X9KDG5P?hl=en-us&gl=IL&ocid=pdpsharev) · [Studio](https://claw-mate-studio.web.app/) |
 | **Grok CLI Copilot** | The **Grok CLI** inside VS Code — chat, agentic edits, and full file context in a focused sidebar. | [Marketplace](https://marketplace.visualstudio.com/items?itemName=jacobthejacobs.grok-cli-copilot) |
+| **Llama Menu** | **macOS menu bar** control for local **llama.cpp** — runs GGUF models at the largest context your Mac can actually hold, sized from real GGUF metadata. | [GitHub](https://github.com/JacobTheJacobs/llamacpp-menubar) |
 | **Corporate Brawl** | A chaotic office-brawl browser game, built in **Three.js**. | [Live Demo](https://corporate-brawl.web.app) |
 | **Floor Planner** | Draw rooms in **2D** and watch them rise in **3D** — live, in the browser. | [Live Demo](https://floorplan-29233.web.app/) |
 | **PixelBoy** | Retro **pixel sprite editor** — frame-by-frame animation, a 60+ color palette, and PNG spritesheet export. | [Live Demo](https://pixel-boy-studio.web.app/) |
