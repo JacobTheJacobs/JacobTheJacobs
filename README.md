@@ -35,21 +35,9 @@
 
 ## 🌟 Open Source Contributions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/NirDiamant/RAG_Techniques">RAG_Techniques</a></h3>
-      <p>The reference collection of advanced <b>Retrieval-Augmented Generation</b> techniques — runnable notebooks, one per method.</p>
-      <a href="https://github.com/NirDiamant/RAG_Techniques/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F5C518" alt="Stars"></a>
-      <a href="https://github.com/NirDiamant/RAG_Techniques/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/RAG_Techniques?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E7681" alt="Forks"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/NirDiamant/Agent_Memory_Techniques">Agent_Memory_Techniques</a></h3>
-      <p><b>Agent memory for LLMs</b> — 30 runnable Jupyter notebooks covering the memory patterns agents actually need.</p>
-      <a href="https://github.com/NirDiamant/Agent_Memory_Techniques/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F5C518" alt="Stars"></a>
-      <a href="https://github.com/NirDiamant/Agent_Memory_Techniques/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/Agent_Memory_Techniques?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E7681" alt="Forks"></a>
-    </td>
-  </tr>
-</table>
+| 🤝 Project | ⚡ Description | ⭐ |
+|---|---|---|
+| [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) | The reference collection of advanced **Retrieval-Augmented Generation** techniques — runnable notebooks, one per method. | [![Stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=F5C518)](https://github.com/NirDiamant/RAG_Techniques/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/RAG_Techniques?style=flat-square&label=forks&labelColor=0D1117&color=6E7681)](https://github.com/NirDiamant/RAG_Techniques/network/members) |
+| [**Agent_Memory_Techniques**](https://github.com/NirDiamant/Agent_Memory_Techniques) | **Agent memory for LLMs** — 30 runnable Jupyter notebooks covering the memory patterns agents actually need. | [![Stars](https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=F5C518)](https://github.com/NirDiamant/Agent_Memory_Techniques/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/Agent_Memory_Techniques?style=flat-square&label=forks&labelColor=0D1117&color=6E7681)](https://github.com/NirDiamant/Agent_Memory_Techniques/network/members) |
 
 <sub>Star and fork counts are live from GitHub, not numbers typed once.</sub>
