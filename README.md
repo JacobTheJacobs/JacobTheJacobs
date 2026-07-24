@@ -2,13 +2,9 @@
 
 # 👋 Hey, I'm Jacob
 
-**Full-stack developer shipping AI tooling** — editor copilots, agents, and automations, with a few browser games along the way.
+**Full-stack developer AI tooling** editor copilots, agents, and automations, with a few browser games along the way.
 
 🌐 [Portfolio](https://jacobthejacobs.github.io/features/)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/JacobTheJacobs" alt="Jacob's GitHub contribution heatmap" />
-</p>
 
 ## What I've built
 
