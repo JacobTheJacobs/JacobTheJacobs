@@ -35,7 +35,7 @@
 
 ## 🌟 Open Source Contributions
 
-| 🤝 Project | ⚡ Description | ⭐ |
+| 🛠️ Build | ⚡ Description | 🔗 |
 |---|---|---|
 | [**RAG_Techniques**](https://github.com/NirDiamant/RAG_Techniques) | The reference collection of advanced **Retrieval-Augmented Generation** techniques — runnable notebooks, one per method. | [![Stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=F5C518)](https://github.com/NirDiamant/RAG_Techniques/stargazers) |
 | [**Agent_Memory_Techniques**](https://github.com/NirDiamant/Agent_Memory_Techniques) | **Agent memory for LLMs** — 30 runnable Jupyter notebooks covering the memory patterns agents actually need. | [![Stars](https://img.shields.io/github/stars/NirDiamant/Agent_Memory_Techniques?style=flat-square&label=%E2%98%85&labelColor=0D1117&color=F5C518)](https://github.com/NirDiamant/Agent_Memory_Techniques/stargazers) |
