@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Jacob
 
-**App & full-stack developer** — AI tools, browser games, and web/mobile apps.
+**Full-stack developer shipping AI tooling** — editor copilots, agents, and automations, with a few browser games along the way.
 
 🌐 [Portfolio](https://jacobthejacobs.github.io/features/)
 
