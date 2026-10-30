@@ -4,10 +4,6 @@
 
 **Software developer AI tools, agents, and automation**
 
-🌐 [Portfolio](https://jacobthejacobs.github.io/)
-
-## What I've built
-
 - **[Antigravity CLI Copilot](https://marketplace.visualstudio.com/items?itemName=jacobthejacobs.antigravity-chat)** — Google's Antigravity CLI inside VS Code: streaming replies, live tool rows, generated images inline, and follow-ups queued instead of cancelling the turn.
 - **[Grok CLI Copilot](https://marketplace.visualstudio.com/items?itemName=jacobthejacobs.grok-cli-copilot)** — The Grok CLI inside VS Code — chat, agentic edits, and full file context in a focused sidebar.
 - **[Claw Mate](https://apps.microsoft.com/detail/9NJH9X9KDG5P)** — Desktop AI pet that watches your coding agents (Claude Code, Codex, OpenClaw) and surfaces approvals the moment they're needed. · [Studio](https://claw-mate-studio.web.app/)
