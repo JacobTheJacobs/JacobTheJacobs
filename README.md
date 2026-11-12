@@ -22,7 +22,7 @@
 
 <sub>🚧 = under construction</sub>
 
-## Contributing to
+## Contribute to
 
 - **[NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** — The reference collection of advanced Retrieval-Augmented Generation techniques — runnable notebooks, one per method.
 - **[NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** — Agent memory for LLMs — 30 runnable Jupyter notebooks covering the memory patterns agents actually need.
