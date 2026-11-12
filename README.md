@@ -4,6 +4,8 @@
 
 **Software developer AI tools, agents, and automation**
 
+- **[Claude Boost](https://github.com/JacobTheJacobs/claude-boost-cost-optimizer)** — Claude Code cost optimizer: long sessions cost 65% less at the same quality (measured on 40 graded tasks), with zero tokens added to your requests. Local usage report, a long-session guard hook, and a Haiku lookup agent.
+- **[Throughline](https://github.com/JacobTheJacobs/Throughline)** — Research agent for creative strategists: turns one cultural reference into an explainable creative brief through the Qloo taste graph, keeping the evidence path behind every pick. Next.js. · [Live](https://throughline.51-21-210-47.sslip.io) · [Demo](https://youtu.be/UX1rtfNNnlM)
 - **[Antigravity CLI Copilot](https://marketplace.visualstudio.com/items?itemName=jacobthejacobs.antigravity-chat)** — Google's Antigravity CLI inside VS Code: streaming replies, live tool rows, generated images inline, and follow-ups queued instead of cancelling the turn.
 - **[Grok CLI Copilot](https://marketplace.visualstudio.com/items?itemName=jacobthejacobs.grok-cli-copilot)** — The Grok CLI inside VS Code — chat, agentic edits, and full file context in a focused sidebar.
 - **[Claw Mate](https://apps.microsoft.com/detail/9NJH9X9KDG5P)** — Desktop AI pet that watches your coding agents (Claude Code, Codex, OpenClaw) and surfaces approvals the moment they're needed. · [Studio](https://claw-mate-studio.web.app/)
